@@ -33,7 +33,7 @@ This is a simple and small text editor PWA. It is a simple text editor that allo
 
 ![Screenshot](./assets/texteditor.png)
 
-The project is deployed on Heroku and can be accessed here: 
+The project is deployed on Heroku and can be accessed here: https://mysterious-stream-67239.herokuapp.com/
 
 
 ## License
