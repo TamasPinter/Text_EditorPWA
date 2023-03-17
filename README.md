@@ -31,7 +31,8 @@ This is a simple and small text editor PWA. It is a simple text editor that allo
 
 -> Once installed, you can use the text editor offline.
 
-![Screenshot](./assets/texteditor.png)
+![Screenshot](./assets/texteditor.png) App
+![Screenshot](./assets/texteditor2.png) Heroku Deployment
 
 The project is deployed on Heroku and can be accessed here: https://mysterious-stream-67239.herokuapp.com/
 
