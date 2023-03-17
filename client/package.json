@@ -1,11 +1,11 @@
 {
-  "name": "text-editor",
+  "name": "JATE",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
     "start": "webpack --watch"
   },
-  "author": "Tamas Pinter",
+  "author": "2U",
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.15.0",
